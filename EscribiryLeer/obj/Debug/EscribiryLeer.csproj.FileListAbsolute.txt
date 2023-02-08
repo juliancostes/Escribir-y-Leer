@@ -1,0 +1,22 @@
+C:\Users\Edu\Documents\Visual Studio 2017\Projects\EscribiryLeer\EscribiryLeer\bin\Debug\EscribiryLeer.exe.config
+C:\Users\Edu\Documents\Visual Studio 2017\Projects\EscribiryLeer\EscribiryLeer\bin\Debug\EscribiryLeer.exe
+C:\Users\Edu\Documents\Visual Studio 2017\Projects\EscribiryLeer\EscribiryLeer\bin\Debug\EscribiryLeer.pdb
+C:\Users\Edu\Documents\Visual Studio 2017\Projects\EscribiryLeer\EscribiryLeer\obj\Debug\EscribiryLeer.csprojAssemblyReference.cache
+C:\Users\Edu\Documents\Visual Studio 2017\Projects\EscribiryLeer\EscribiryLeer\obj\Debug\EscribiryLeer.csproj.CoreCompileInputs.cache
+C:\Users\Edu\Documents\Visual Studio 2017\Projects\EscribiryLeer\EscribiryLeer\obj\Debug\EscribiryLeer.exe
+C:\Users\Edu\Documents\Visual Studio 2017\Projects\EscribiryLeer\EscribiryLeer\obj\Debug\EscribiryLeer.pdb
+C:\Users\Edu\Desktop\EscribiryLeer\EscribiryLeer\bin\Debug\EscribiryLeer.exe.config
+C:\Users\Edu\Desktop\EscribiryLeer\EscribiryLeer\bin\Debug\EscribiryLeer.exe
+C:\Users\Edu\Desktop\EscribiryLeer\EscribiryLeer\bin\Debug\EscribiryLeer.pdb
+C:\Users\Edu\Desktop\EscribiryLeer\EscribiryLeer\obj\Debug\EscribiryLeer.csprojAssemblyReference.cache
+C:\Users\Edu\Desktop\EscribiryLeer\EscribiryLeer\obj\Debug\EscribiryLeer.csproj.CoreCompileInputs.cache
+C:\Users\Edu\Desktop\EscribiryLeer\EscribiryLeer\obj\Debug\EscribiryLeer.exe
+C:\Users\Edu\Desktop\EscribiryLeer\EscribiryLeer\obj\Debug\EscribiryLeer.pdb
+C:\Users\RTECH\Desktop\GitHub\Escribir y Leer archivos de texto\EscribiryLeer\bin\Debug\EscribiryLeer.exe.config
+C:\Users\RTECH\Desktop\GitHub\Escribir y Leer archivos de texto\EscribiryLeer\bin\Debug\EscribiryLeer.exe
+C:\Users\RTECH\Desktop\GitHub\Escribir y Leer archivos de texto\EscribiryLeer\bin\Debug\EscribiryLeer.pdb
+C:\Users\RTECH\Desktop\GitHub\Escribir y Leer archivos de texto\EscribiryLeer\obj\Debug\EscribiryLeer.csproj.AssemblyReference.cache
+C:\Users\RTECH\Desktop\GitHub\Escribir y Leer archivos de texto\EscribiryLeer\obj\Debug\EscribiryLeer.csproj.SuggestedBindingRedirects.cache
+C:\Users\RTECH\Desktop\GitHub\Escribir y Leer archivos de texto\EscribiryLeer\obj\Debug\EscribiryLeer.csproj.CoreCompileInputs.cache
+C:\Users\RTECH\Desktop\GitHub\Escribir y Leer archivos de texto\EscribiryLeer\obj\Debug\EscribiryLeer.exe
+C:\Users\RTECH\Desktop\GitHub\Escribir y Leer archivos de texto\EscribiryLeer\obj\Debug\EscribiryLeer.pdb
